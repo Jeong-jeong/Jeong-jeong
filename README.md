@@ -4,7 +4,7 @@
 <h2 align = 'center'>🤖 Tech Stack 🤖</h2>
 <h3 align = 'center'> Front </h3>
 <p align ='center'>
- <img src="https://img.shields.io/badge/HTML5-EF404A?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
+ <img src="https://img.shields.io/badge/HTML5-F2728C?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
  <img src="https://img.shields.io/badge/CSS3-27AAE1?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
  <img src="https://img.shields.io/badge/JavaScript-FFD400?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
  <img src="https://img.shields.io/badge/React-81D3EB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp
