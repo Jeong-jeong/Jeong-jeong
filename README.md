@@ -4,13 +4,14 @@
 <h2 align = 'center'>🤖 Tech Stack 🤖</h2>
 <h3 align = 'center'> Front </h3>
 <p align ='center'>
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
+ <img src="https://img.shields.io/badge/HTML5-EF404A?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
+ <img src="https://img.shields.io/badge/CSS3-27AAE1?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
+ <img src="https://img.shields.io/badge/JavaScript-FFD400?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
+ <img src="https://img.shields.io/badge/React-81D3EB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp
  </p>
  
  <h3 align = 'center'> Back-end </h3>
  <p align ='center'>
- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
+ <img src="https://img.shields.io/badge/Node.js-80B463?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
  </p>
  
