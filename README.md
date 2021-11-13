@@ -10,8 +10,5 @@
  <img src="https://img.shields.io/badge/React-81D3EB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp
  </p>
  
- <h3 align = 'center'> Back-end </h3>
- <p align ='center'>
- <img src="https://img.shields.io/badge/Node.js-80B463?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
- </p>
+ 
  
