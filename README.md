@@ -6,10 +6,10 @@
 <table align="center">
  <tr>
   <th>
-   stack
+💻
   </th>
     <th>
-   content
+⭐️
   </th>
  </tr>
  <tr>
