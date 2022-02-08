@@ -17,13 +17,8 @@
    Front-end
   </th>
   <td>
-   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a> &nbsp
- <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a> &nbsp
- <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a> &nbsp
  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a> &nbsp
  <img alt="Vue3" src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue&logoColor=white"/></a> &nbsp
- <img alt="Next" src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=white"/></a> &nbsp
- <img alt="axios" src="https://img.shields.io/badge/axios-3b5bdb?style=for-the-badge&logoColor=white"/></a> &nbsp
   </td>
  </tr>
  <tr>
