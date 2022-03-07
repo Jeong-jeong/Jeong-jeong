@@ -5,7 +5,10 @@
  <i>Junior FE Developer</i>
 
 [📚Velog](https://velog.io/@jeongs)
-[📧Email](kimm.jeongs@gmail.com)
+ 
+<a href="mailto:kimm.jeongs@gmail.com">📧Email</a>
+
+
  
 </div>
 
