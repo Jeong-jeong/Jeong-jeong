@@ -1,7 +1,16 @@
-<img width="1024" height="400" alt="profile" src="https://user-images.githubusercontent.com/68528752/112266619-99131300-8cb7-11eb-87e6-804f7b2e14f1.png">
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=김지영&fontSize=90&animation=twinkling)
+
+<div align="center">
+ 
+ <i>Junior FE Developer</i>
+
+[📚Velog](https://velog.io/@jeongs)
+[📧Email](kimm.jeongs@gmail.com)
+ 
+</div>
 
 
-<h2 align = 'center'>🤖 Tech Stack 🤖</h2>
+<h3 align = 'center'>🤖 Tech Stack 🤖</h3>
 
 <table align="center">
  <tr>
@@ -27,7 +36,7 @@
   </th>
   <td>
    <img alt="SCSS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/></a> &nbsp
-   <img alt="Emotion" src="https://img.shields.io/badge/Emotion-e599f7?style=for-the-badge&logo=Emotion"/></a> &nbsp
+   <img alt="styled-components" src="https://img.shields.io/badge/styled-components-e599f7?style=for-the-badge&logo=styled-components"/></a> &nbsp
   </td>
  </tr>
   <tr>
@@ -70,6 +79,14 @@
   </td>
  </tr>
 </table>
+
+
+<h3 align = 'center'>최신 Velog를 보고 싶다면?</h3>
+<div align="center">
+ 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jeongs)](https://velog.io/@jeongs)
+ 
+</div>
 
 
  
